@@ -1,0 +1,1132 @@
+{
+	"folder_history":
+	[
+		"/Users/daia/Documents/daiaot/memo",
+		"/Users/daia/Vagrant/exp73",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/HTML5 Reset",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/html5boilerplate.com/html5-boilerplate_v6.0.1",
+		"/Users/daia/Vagrant/local-dev/ws/bausch",
+		"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo",
+		"/Users/daia/Vagrant/local-dev/ws/athuman",
+		"/Users/daia/Vagrant/local-dev/ws/habs-education",
+		"/Users/daia/Vagrant/local-dev/ws/habs-government",
+		"/Users/daia/Vagrant/local-dev/ws/habs-education/education",
+		"/Users/daia/Vagrant/local-dev/ws/habs-government/government",
+		"/Users/daia/Vagrant/local-dev/ws/habs",
+		"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/メタフェイズ",
+		"/Users/daia/Vagrant/local-dev/ws/bausch/lp",
+		"/Users/daia/Vagrant/local-dev/ws/demo",
+		"/Users/daia/Vagrant/local-dev/ws/demo/narrow",
+		"/Users/daia/Vagrant/local-dev/ws/demo/guardian_demo",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/useBS/narrow",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/useBS/Snow Free HTML + PSD Portfolio/01_HTML",
+		"/Users/daia/Vagrant/local-dev/ws/habs-mba",
+		"/Users/daia/Documents/daiaot/dev/framework/bootstrap-3.3.7-dist",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/nonUseBS/pure",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset",
+		"/Users/daia/Documents/ws/project/ポシュロム/LP_20171110/htdocs",
+		"/Users/daia/Documents/daiaot/dev/study/responsive/MdN_Responsive",
+		"/Users/daia/Vagrant/local-dev/ws/dynac_shop",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/MdN_Responsive",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/html5boilerplate.com",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/guardian",
+		"/Users/daia/Documents/daiaot/dev/template/html/HTML5 Reset/HTML5-Reset-master",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/hubs",
+		"/Users/daia/Documents/daiaot/dev/template/html/corporate/tp_cosme1_skyblue",
+		"/Users/daia/Documents/daiaot/dev/template/html/creative/html5up-strongly-typed",
+		"/Users/daia/Documents/daiaot/dev/template/html/corporate/pure",
+		"/Users/daia/Documents/daiaot/dev/template/html/html5boilerplate.com",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/mba",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/hit-u",
+		"/Users/daia/Documents/daiaot/dev/template/html/html5boilerplate.com/html5-boilerplate_v6.0.1",
+		"/Users/daia/Documents/daiaot/dev/study/javascript/[改訂新版]JavaScript本格入門/samples/js",
+		"/Users/daia/Documents/ws/project/日本ガス協会/2017/GAS-214/ガス協会1003更新分02",
+		"/Users/daia/Vagrant/local-dev/ws/gas_kyokai",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/fs",
+		"/Users/daia/Vagrant/local-dev/ws/grow-one",
+		"/Applications/MAMP/htdocs/jsfm",
+		"/Users/daia/Documents/daiaot/dev/study/framework/react",
+		"/Applications/MAMP/htdocs/js",
+		"/Users/daia/Documents/daiaot/dev/study/javascript/[改訂新版]JavaScript本格入門/samples",
+		"/Users/daia/Desktop/daiaot/dev/wp/sakura",
+		"/Users/daia/Desktop/daiaot/dl/FileZilla.app",
+		"/Users/daia/Desktop/HeatWave/03.Android基礎",
+		"/Applications/Xcode.app/Contents/Developer/Applications/iOS Simulator.app",
+		"/Users/daia/Desktop/DOM_Scripting_sample",
+		"/Users/daia/Desktop/webtext-sample"
+	],
+	"last_version": 3176,
+	"last_window_id": 172,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 954.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ge",
+						"getElementsByTagName"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 155.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/daia/Desktop/dev/tips.txt",
+				"/Users/daia/Documents/daiaot/memo/js-framework.txt",
+				"/Users/daia/Desktop/account_info.txt",
+				"/Users/daia/Desktop/etc_memo.txt",
+				"/Users/daia/Documents/daiaot/doc/エントリー検討企業.txt",
+				"/Users/daia/Documents/daiaot/doc/札幌求人情報.txt",
+				"/Users/daia/Documents/daiaot/doc/WEB求人サイト.txt",
+				"/Users/daia/Documents/daiaot/memo/リセットCSSメモ.txt",
+				"/Users/daia/Documents/daiaot/daiaot_info.txt",
+				"/Users/daia/Documents/daiaot/memo/pw_memo1.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/書籍リスト.txt",
+				"/Users/daia/Documents/daiaot/フロントエンジニア資料.txt",
+				"/Users/daia/Documents/daiaot/flexメモ.txt",
+				"/Users/daia/Documents/daiaot/memo/frontend_tips.txt",
+				"/Users/daia/Documents/daiaot/memo/jQuery_memo.txt",
+				"/Users/daia/Documents/daiaot/Vagrant_メモ.txt",
+				"/Users/daia/Documents/ws/memo/Nginx_conf.txt",
+				"/Users/daia/Documents/daiaot/Docker_メモ.txt",
+				"/Users/daia/Documents/daiaot/VCCW_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/svn_備忘録.txt",
+				"/Users/daia/Documents/ws/memo/テストサーバー設定.txt",
+				"/Users/daia/Documents/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/ws/memo/etc_memo.txt",
+				"/Users/daia/Documents/daiaot/dotfiles_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/aotsukad_memo.txt",
+				"/Users/daia/Desktop/aotsuka_bk20180427/text/tips/flexメモ.txt",
+				"/Users/daia/Documents/daiaot/レスポンシブデザイン.txt",
+				"/Users/daia/Documents/daiaot/memo/gulp_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/sass_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/技術tips_etc.txt",
+				"/Users/daia/Documents/daiaot/memo/キャットフード.txt",
+				"/Users/daia/Documents/daiaot/memo/北海道新幹線.txt",
+				"/Users/daia/Documents/daiaot/memo/備忘録.txt",
+				"/Users/daia/Documents/daiaot/memo/狩猟免許メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/home_wifi_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/ディレクターメモ.txt",
+				"/Users/daia/Documents/daiaot/doc/就職活動2018メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_3.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career.txt",
+				"/Users/daia/Vagrant/local-dev/Vagrantfile",
+				"/Users/daia/Documents/daiaot/doc/resume/職業訓練.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_rikunabi.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/職務経歴_編集.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/サービス業/シンデレラグループ/スタイルグループ.txt",
+				"/Users/daia/Desktop/animate.css",
+				"/Users/daia/Documents/daiaot/dev/template/org/template.html",
+				"/Users/daia/Documents/daiaot/doc/resume/マイナビ転職/株式会社ホットファクトリー/株式会社ホットファクトリー.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/クリエイティブセンター広研/クリエイティブセンター広研.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ロゾパンサン/ロゾパンサン.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ソニックムーブ/株式会社ソニックムーブ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/エレクトロドリーム/株式会社エレクトロドリーム.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/アーバンリサーチ/株式会社アーバンリサーチ.txt",
+				"/Users/daia/Documents/daiaot/doc/収支メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/ソルトワークス/株式会社ソルトワークス.txt",
+				"/Users/daia/Documents/daiaot/doc/面談日程.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件_2017.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件.txt",
+				"/Users/daia/Documents/ws/memo/プロジェクト.txt",
+				"/Users/daia/Vagrant/local-dev/ws/habs-education/education/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-government/index.html",
+				"/Users/daia/Documents/daiaot/doc/resume/careerInfo_C&R.txt",
+				"/Users/daia/Documents/daiaot/memo/フリーランス&起業.txt",
+				"/Users/daia/Desktop/appleメモ.txt",
+				"/Users/daia/Documents/daiaot/macbookpro_memo.txt",
+				"/private/etc/hosts",
+				"/Users/daia/Documents/daiaot/メディアクエリ.txt",
+				"/Users/daia/Desktop/career_memo.txt",
+				"/Users/daia/Desktop/面接_株式会社ナディア.txt",
+				"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/conf/apache/httpd.conf",
+				"/Users/daia/Documents/daiaot/dev/framework/bootstrap-3.3.7-dist/index.html",
+				"/Users/daia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/daia/Documents/ws/memo/開発メモ.txt",
+				"/Users/daia/Desktop/web収益モデル.txt",
+				"/Users/daia/Documents/daiaot/te.html",
+				"/Users/daia/Documents/daiaot/専修大学図書館_貸借リスト.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/書籍-再借.txt",
+				"/Users/daia/Documents/ws/project/日本ガス協会/2017/GAS-214/GAS-214.txt",
+				"/Users/daia/Documents/daiaot/vimrc_memo.txt",
+				"/Users/daia/Documents/daiaot/vim_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/dj.txt",
+				"/Users/daia/Documents/ws/project/一橋大学/HUB経営分析/HUB経営分析_20171006.txt",
+				"/Users/daia/Documents/ws/memo/Vagrantfile",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant_vhosts.conf",
+				"/Users/daia/Documents/daiaot/ws/formac/Vagrantfile",
+				"/Users/daia/Vagrant/local-dev/chikarico/index.html",
+				"/Users/daia/Documents/daiaot/ws/memo/プロジェクト.txt",
+				"/Users/daia/Documents/daiaot/doc/面接メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/バイト.txt",
+				"/Users/daia/Desktop/自己管理メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_2.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career._2txt",
+				"/Users/daia/Documents/daiaot/doc/リクルートスタッフィング案件.txt",
+				"/Users/daia/Documents/daiaot/memo/レシピメモ.txt",
+				"/Users/daia/Documents/daiaot/doc/個人再生.txt",
+				"/Users/daia/Documents/daiaot/doc/グラヴィー案件_170419.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info02.txt",
+				"/Users/daia/Documents/daiaot/doc/ITプロパートナーズ案件.txt",
+				"/Users/daia/Documents/daiaot/doc/リージョンズ株式会社/リージョンズ案件.txt",
+				"/Users/daia/Documents/daiaot/concent_memo01.txt",
+				"/Users/daia/Desktop/チュードル_memo.txt",
+				"/Users/daia/Desktop/daiaot/dev/wp-config.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-settings.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-signup.php",
+				"/Users/daia/Desktop/daiaot/doc/dev/untitled,txt",
+				"/Users/daia/Desktop/android_sample/codezine/MyDBApp.java",
+				"/Users/daia/Desktop/daiaot/doc/dev/android_memo.txt",
+				"/Users/daia/Desktop/daiaot/win_data/aotsuka/職務経歴.txt",
+				"/Users/daia/Desktop/HeatWave/memo_1125.txt",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/AndroidManifest.xml",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/Sample8.java",
+				"/Users/daia/Desktop/android_sample/codezine/.DS_Store",
+				"/Users/daia/Desktop/daiaot/dl/wordpress/plugins/ac_authenticator/ac_authenticator.php",
+				"/Users/daia/Desktop/index.html",
+				"/Users/daia/Desktop/index.php",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServerThread.java",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServer.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Background.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MySurfaceView.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Droid.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MainActivity.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/untitled",
+				"/Users/daia/Desktop/sample.sqlite",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/MainActivity.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/SimpleDatabaseHelper.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/activity_simple_database_helper.xml"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+					"/Users/daia/Documents/daiaot,*.txt"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"シンボリックリンク",
+					"rm",
+					"nginx",
+					"adobe",
+					"現場の",
+					"現場のプロが",
+					"現場",
+					"https://www.iijmio.jp/",
+					"adobe",
+					"OCN",
+					"110368040",
+					"　",
+					"jquery",
+					"angular",
+					"view.js",
+					"framework",
+					"view",
+					"　",
+					"株式会社ソニックムーブ",
+					"2018/03",
+					"2018",
+					"センス・オブ・プレイス",
+					"バイヤーズセレクト",
+					"センス・オブ・プレイス",
+					"オムニチャネル",
+					"オムニチャネルとは",
+					"オムニチャネル",
+					"https://seleck.cc/1081",
+					"販促費を最適化し、購入率の向上も実現。アーバンリサーチのアウトレットEC戦略",
+					"スパイス",
+					"abode",
+					"東京都新宿区愛住町19-13泰美ビル4F",
+					"dist",
+					"jquery",
+					"> ",
+					"&#",
+					"&#12316;",
+					"diff",
+					"〜",
+					"◯",
+					" - ",
+					"〜",
+					"株式会社ディー・エヌ・エー（在籍期間：2014年9月",
+					"長所",
+					"レスポンシブ",
+					"mac",
+					"snv log",
+					"log",
+					"reload",
+					"index.php?$query_string",
+					"gas-kyokai.local",
+					"Nginx",
+					"server",
+					"habs",
+					"habs-mba",
+					"現在のリビジョン",
+					"server {",
+					"habs-mba.local",
+					"habs-mba",
+					"adobe",
+					"min",
+					"reload",
+					"restrat",
+					"nginx",
+					"min",
+					"@media screen and (min-width: 768px)",
+					"高さ",
+					"hight",
+					"min",
+					"beauti",
+					"min",
+					"bootstrap",
+					"クリーク",
+					"backlog",
+					"flex",
+					"boot",
+					"media",
+					"@media only screen and (min-width: 35em) {",
+					"@media only screen and (min-width: 35em) {\n",
+					"http://coliss.com/articles/build-websites/operation/css/about-normalize-css.html",
+					"html",
+					"main",
+					"AddOutputFilter",
+					"include",
+					"dynac",
+					"dynac-shop",
+					"#",
+					"ServerName",
+					"#",
+					"org73",
+					"localhost",
+					"hub",
+					"carousel.css",
+					"data:image",
+					".css",
+					"js/bootstrap.min.js",
+					"ie-emulation-modes-warning.js",
+					"main",
+					"del",
+					"rm",
+					"restart",
+					"nginx",
+					"https://momdo.github.io/html51/Overview.html",
+					"http://www.html5.jp/",
+					"websmile.backlog.jp",
+					"https://websmile.backlog.jp",
+					"hub.hit-u.ac.jp",
+					"～",
+					"10:00～10:30",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが教えるＷｏｒｄＰｒｅｓｓステップアップ・テクニック－",
+					"1127487414",
+					"UNIXという考え方",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが教えるＷｏｒｄＰｒｅｓｓステップアップ・テクニック－",
+					"chikarico",
+					"新しいＬｉｎｕｘの教科書",
+					"配置場所",
+					"１５時間でわかるＳｗｉｆｔ集中講座",
+					"ひとりビジネスの教科書",
+					"[専修大学]：有",
+					"ＷｏｒｄＰｒｅｓｓ　３．ｘデザイン＆カスタマイズスタイルブック－複数ブログ管理からスマートフォンサイトまで、一歩進んだＷｏｒｄＰｒｅｓｓサイト構築術－",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが",
+					"CODE COMPLETE 第2版 上",
+					"Webデザイン良質見本帳",
+					"Unity5 3D/2Dゲーム開発実践入門",
+					"ＷｏｒｄＰｒｅｓｓ　３．ｘデザイン＆カスタマイズスタイルブック",
+					"多摩図書館",
+					"Webデザイン良質見本帳"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gu",
+						"~/Documents/daiaot/memo/gulp_memo.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1598.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ge",
+						"getElementsByTagName"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/Babel.txt",
+					"settings":
+					{
+						"buffer_size": 2581,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/Vagrant_メモ.txt",
+					"settings":
+					{
+						"buffer_size": 9380,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/開発環境.txt",
+					"settings":
+					{
+						"buffer_size": 322,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/tips_memo.txt",
+					"settings":
+					{
+						"buffer_size": 7260,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/環境構築過程_備忘録.txt",
+					"settings":
+					{
+						"buffer_size": 4682,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/ターミナル環境.txt",
+					"settings":
+					{
+						"buffer_size": 1567,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/React.txt",
+					"settings":
+					{
+						"buffer_size": 333,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/tips/dev_tips.txt",
+					"settings":
+					{
+						"buffer_size": 19053,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 155.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/daia/Documents/daiaot/memo",
+				"/Users/daia/Documents/daiaot/memo/tips"
+			],
+			"file_history":
+			[
+				"/Users/daia/Documents/daiaot/memo/tips/備忘録.txt",
+				"/Users/daia/Documents/daiaot/memo/tips/Vagrantfile",
+				"/Users/daia/Documents/daiaot/memo/tips/Docker_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/tips/dev_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/tips/css_memo.txt",
+				"/Users/daia/Desktop/dev/tips.txt",
+				"/Users/daia/Documents/daiaot/memo/js-framework.txt",
+				"/Users/daia/Desktop/account_info.txt",
+				"/Users/daia/Desktop/etc_memo.txt",
+				"/Users/daia/Documents/daiaot/doc/エントリー検討企業.txt",
+				"/Users/daia/Documents/daiaot/doc/札幌求人情報.txt",
+				"/Users/daia/Documents/daiaot/doc/WEB求人サイト.txt",
+				"/Users/daia/Documents/daiaot/memo/リセットCSSメモ.txt",
+				"/Users/daia/Documents/daiaot/daiaot_info.txt",
+				"/Users/daia/Documents/daiaot/memo/pw_memo1.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/書籍リスト.txt",
+				"/Users/daia/Documents/daiaot/フロントエンジニア資料.txt",
+				"/Users/daia/Documents/daiaot/flexメモ.txt",
+				"/Users/daia/Documents/daiaot/memo/frontend_tips.txt",
+				"/Users/daia/Documents/daiaot/memo/jQuery_memo.txt",
+				"/Users/daia/Documents/daiaot/Vagrant_メモ.txt",
+				"/Users/daia/Documents/ws/memo/Nginx_conf.txt",
+				"/Users/daia/Documents/daiaot/Docker_メモ.txt",
+				"/Users/daia/Documents/daiaot/VCCW_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/svn_備忘録.txt",
+				"/Users/daia/Documents/ws/memo/テストサーバー設定.txt",
+				"/Users/daia/Documents/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/ws/memo/etc_memo.txt",
+				"/Users/daia/Documents/daiaot/dotfiles_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/aotsukad_memo.txt",
+				"/Users/daia/Desktop/aotsuka_bk20180427/text/tips/flexメモ.txt",
+				"/Users/daia/Documents/daiaot/レスポンシブデザイン.txt",
+				"/Users/daia/Documents/daiaot/memo/gulp_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/sass_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/技術tips_etc.txt",
+				"/Users/daia/Documents/daiaot/memo/キャットフード.txt",
+				"/Users/daia/Documents/daiaot/memo/北海道新幹線.txt",
+				"/Users/daia/Documents/daiaot/memo/備忘録.txt",
+				"/Users/daia/Documents/daiaot/memo/狩猟免許メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/home_wifi_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/ディレクターメモ.txt",
+				"/Users/daia/Documents/daiaot/doc/就職活動2018メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_3.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career.txt",
+				"/Users/daia/Vagrant/local-dev/Vagrantfile",
+				"/Users/daia/Documents/daiaot/doc/resume/職業訓練.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_rikunabi.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/職務経歴_編集.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/サービス業/シンデレラグループ/スタイルグループ.txt",
+				"/Users/daia/Desktop/animate.css",
+				"/Users/daia/Documents/daiaot/dev/template/org/template.html",
+				"/Users/daia/Documents/daiaot/doc/resume/マイナビ転職/株式会社ホットファクトリー/株式会社ホットファクトリー.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/クリエイティブセンター広研/クリエイティブセンター広研.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ロゾパンサン/ロゾパンサン.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ソニックムーブ/株式会社ソニックムーブ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/エレクトロドリーム/株式会社エレクトロドリーム.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/アーバンリサーチ/株式会社アーバンリサーチ.txt",
+				"/Users/daia/Documents/daiaot/doc/収支メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/ソルトワークス/株式会社ソルトワークス.txt",
+				"/Users/daia/Documents/daiaot/doc/面談日程.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件_2017.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件.txt",
+				"/Users/daia/Documents/ws/memo/プロジェクト.txt",
+				"/Users/daia/Vagrant/local-dev/ws/habs-education/education/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-government/index.html",
+				"/Users/daia/Documents/daiaot/doc/resume/careerInfo_C&R.txt",
+				"/Users/daia/Documents/daiaot/memo/フリーランス&起業.txt",
+				"/Users/daia/Desktop/appleメモ.txt",
+				"/Users/daia/Documents/daiaot/macbookpro_memo.txt",
+				"/private/etc/hosts",
+				"/Users/daia/Documents/daiaot/メディアクエリ.txt",
+				"/Users/daia/Desktop/career_memo.txt",
+				"/Users/daia/Desktop/面接_株式会社ナディア.txt",
+				"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/conf/apache/httpd.conf",
+				"/Users/daia/Documents/daiaot/dev/framework/bootstrap-3.3.7-dist/index.html",
+				"/Users/daia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/daia/Documents/ws/memo/開発メモ.txt",
+				"/Users/daia/Desktop/web収益モデル.txt",
+				"/Users/daia/Documents/daiaot/te.html",
+				"/Users/daia/Documents/daiaot/専修大学図書館_貸借リスト.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/書籍-再借.txt",
+				"/Users/daia/Documents/ws/project/日本ガス協会/2017/GAS-214/GAS-214.txt",
+				"/Users/daia/Documents/daiaot/vimrc_memo.txt",
+				"/Users/daia/Documents/daiaot/vim_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/dj.txt",
+				"/Users/daia/Documents/ws/project/一橋大学/HUB経営分析/HUB経営分析_20171006.txt",
+				"/Users/daia/Documents/ws/memo/Vagrantfile",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant_vhosts.conf",
+				"/Users/daia/Documents/daiaot/ws/formac/Vagrantfile",
+				"/Users/daia/Vagrant/local-dev/chikarico/index.html",
+				"/Users/daia/Documents/daiaot/ws/memo/プロジェクト.txt",
+				"/Users/daia/Documents/daiaot/doc/面接メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/バイト.txt",
+				"/Users/daia/Desktop/自己管理メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_2.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career._2txt",
+				"/Users/daia/Documents/daiaot/doc/リクルートスタッフィング案件.txt",
+				"/Users/daia/Documents/daiaot/memo/レシピメモ.txt",
+				"/Users/daia/Documents/daiaot/doc/個人再生.txt",
+				"/Users/daia/Documents/daiaot/doc/グラヴィー案件_170419.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info02.txt",
+				"/Users/daia/Documents/daiaot/doc/ITプロパートナーズ案件.txt",
+				"/Users/daia/Documents/daiaot/doc/リージョンズ株式会社/リージョンズ案件.txt",
+				"/Users/daia/Documents/daiaot/concent_memo01.txt",
+				"/Users/daia/Desktop/チュードル_memo.txt",
+				"/Users/daia/Desktop/daiaot/dev/wp-config.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-settings.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-signup.php",
+				"/Users/daia/Desktop/daiaot/doc/dev/untitled,txt",
+				"/Users/daia/Desktop/android_sample/codezine/MyDBApp.java",
+				"/Users/daia/Desktop/daiaot/doc/dev/android_memo.txt",
+				"/Users/daia/Desktop/daiaot/win_data/aotsuka/職務経歴.txt",
+				"/Users/daia/Desktop/HeatWave/memo_1125.txt",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/AndroidManifest.xml",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/Sample8.java",
+				"/Users/daia/Desktop/android_sample/codezine/.DS_Store",
+				"/Users/daia/Desktop/daiaot/dl/wordpress/plugins/ac_authenticator/ac_authenticator.php",
+				"/Users/daia/Desktop/index.html",
+				"/Users/daia/Desktop/index.php",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServerThread.java",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServer.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Background.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MySurfaceView.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Droid.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MainActivity.java"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ad",
+					"add",
+					"港商",
+					"box",
+					"ぼc"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/daia/Documents/daiaot/memo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/Babel.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1236,
+										1236
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 861.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/Vagrant_メモ.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9380,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/開発環境.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 322,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/tips_memo.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7260,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2417,
+										2499
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1386.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/環境構築過程_備忘録.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4682,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1526,
+										1526
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2257.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/ターミナル環境.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1567,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1237,
+										1302
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 909.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/React.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 333,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										283,
+										283
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/daia/Documents/daiaot/memo/tips/dev_tips.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19053,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2504,
+										2504
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1559.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 41 34 1598 976 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gu",
+						"~/Documents/daiaot/memo/gulp_memo.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 172,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

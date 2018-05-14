@@ -1,0 +1,2265 @@
+{
+	"folder_history":
+	[
+		"/Users/daia/Vagrant/exp73",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/HTML5 Reset",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/html5boilerplate.com/html5-boilerplate_v6.0.1",
+		"/Users/daia/Vagrant/local-dev/ws/bausch",
+		"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo",
+		"/Users/daia/Vagrant/local-dev/ws/athuman",
+		"/Users/daia/Vagrant/local-dev/ws/habs-education",
+		"/Users/daia/Vagrant/local-dev/ws/habs-government",
+		"/Users/daia/Vagrant/local-dev/ws/habs-education/education",
+		"/Users/daia/Vagrant/local-dev/ws/habs-government/government",
+		"/Users/daia/Vagrant/local-dev/ws/habs",
+		"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/メタフェイズ",
+		"/Users/daia/Vagrant/local-dev/ws/bausch/lp",
+		"/Users/daia/Vagrant/local-dev/ws/demo",
+		"/Users/daia/Vagrant/local-dev/ws/demo/narrow",
+		"/Users/daia/Vagrant/local-dev/ws/demo/guardian_demo",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/useBS/narrow",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/useBS/Snow Free HTML + PSD Portfolio/01_HTML",
+		"/Users/daia/Vagrant/local-dev/ws/habs-mba",
+		"/Users/daia/Documents/daiaot/dev/framework/bootstrap-3.3.7-dist",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/nonUseBS/pure",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset",
+		"/Users/daia/Documents/ws/project/ポシュロム/LP_20171110/htdocs",
+		"/Users/daia/Documents/daiaot/dev/study/responsive/MdN_Responsive",
+		"/Users/daia/Vagrant/local-dev/ws/dynac_shop",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/MdN_Responsive",
+		"/Users/daia/Documents/daiaot/dev/template/html/reset/html5boilerplate.com",
+		"/Users/daia/Documents/daiaot/dev/template/html/standard/guardian",
+		"/Users/daia/Documents/daiaot/dev/template/html/HTML5 Reset/HTML5-Reset-master",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/hubs",
+		"/Users/daia/Documents/daiaot/dev/template/html/corporate/tp_cosme1_skyblue",
+		"/Users/daia/Documents/daiaot/dev/template/html/creative/html5up-strongly-typed",
+		"/Users/daia/Documents/daiaot/dev/template/html/corporate/pure",
+		"/Users/daia/Documents/daiaot/dev/template/html/html5boilerplate.com",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/mba",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/hit-u",
+		"/Users/daia/Documents/daiaot/dev/template/html/html5boilerplate.com/html5-boilerplate_v6.0.1",
+		"/Users/daia/Documents/daiaot/dev/study/javascript/[改訂新版]JavaScript本格入門/samples/js",
+		"/Users/daia/Documents/ws/project/日本ガス協会/2017/GAS-214/ガス協会1003更新分02",
+		"/Users/daia/Vagrant/local-dev/ws/gas_kyokai",
+		"/Users/daia/Vagrant/local-dev/ws/hit-u/fs",
+		"/Users/daia/Vagrant/local-dev/ws/grow-one",
+		"/Applications/MAMP/htdocs/jsfm",
+		"/Users/daia/Documents/daiaot/dev/study/framework/react",
+		"/Applications/MAMP/htdocs/js",
+		"/Users/daia/Documents/daiaot/dev/study/javascript/[改訂新版]JavaScript本格入門/samples",
+		"/Users/daia/Desktop/daiaot/dev/wp/sakura",
+		"/Users/daia/Desktop/daiaot/dl/FileZilla.app",
+		"/Users/daia/Desktop/HeatWave/03.Android基礎",
+		"/Applications/Xcode.app/Contents/Developer/Applications/iOS Simulator.app",
+		"/Users/daia/Desktop/DOM_Scripting_sample",
+		"/Users/daia/Desktop/webtext-sample"
+	],
+	"last_version": 3170,
+	"last_window_id": 171,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 851.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"fi",
+						"figure\tTag"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"conte",
+						"container"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"borde",
+						"border-bottom"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"list",
+						"list-style-type"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"mra",
+						"margin-bottom"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"lis",
+						"list-style-type"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"f",
+						"float"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"paddi",
+						"padding-left"
+					],
+					[
+						"bar",
+						"background"
+					],
+					[
+						"ac",
+						"active"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"vi",
+						"visible"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"le",
+						"letter-spacing"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"fot",
+						"font-family"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"mr",
+						"margin-right"
+					],
+					[
+						"foe",
+						"font-size"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"rgb",
+						"rgba(r,g,b,a)"
+					],
+					[
+						"ce",
+						"text-center"
+					],
+					[
+						"border-cl",
+						"border-color"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"txt-si",
+						"txt-size-01"
+					],
+					[
+						"boe",
+						"border-radius"
+					],
+					[
+						"ge",
+						"getElementsByTagName"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 155.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/daia/Desktop/自動車保険.txt",
+				"/Users/daia/Documents/daiaot/VCCW_メモ.txt",
+				"/Users/daia/Vagrant/exp73/Vagrantfile",
+				"/Users/daia/Vagrant/local-dev/ws/athuman/top/index_bk0123.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/jQuery/jquery.smoothscroll-master/src/_smooth-scroll.js",
+				"/Users/daia/Vagrant/local-dev/ws/athuman/top/assets/js/lib/jquery.smoothscroll.js",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/一覧表示(WOMEN)_bk20180109.php",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/kouzapickup.mod_20180110.php",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/コラム一覧表示(MBA)_bk20180109.php",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/一覧表示(WOMEN)_bk20170109.php",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/kouzapickup.bk_20180109.php",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/MT-mba-instructor-detail-index_bk0109.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/mba:instructor:index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/seminar/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-government/government/results/01_0002.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/seminar/common.css",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/04_CMS開発/社内開発環境.txt",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared.min.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/shared.min.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/column/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/js.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/ga.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/dsp.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/css.inc",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/HABS_URL_list.txt",
+				"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo/css/bootstrap/media.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/gulpfile.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/package.json",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared_beautify.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/shared.min.beautify.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/lib/echo.min.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/shared.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/list/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/list/index.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/06_サーバ情報/171127受領/資料/ログイン情報.txt",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/ポートフォワード.txt",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/06_サーバ情報/171127受領/HABS AWS情報/HABS AWS情報.txt",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/column/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/seminar/index.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/HABS_確認事項.txt",
+				"/Users/daia/Documents/daiaot/構造化データ.txt",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/toC/06_サーバ情報/171127受領/資料/HA-HABS.pem",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/download/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/index_mt_diff_1222.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/download/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/header.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/footer.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/access/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/about/feature/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/women/index.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/一覧表示_mod_20171218.txt",
+				"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/templates/_module.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/tuition/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/flow/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/news/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/news/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/instructor/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/instructor/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/about/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/local-nav.js",
+				"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo/css/themify-icons.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/lib/modernizr-2.6.2.min.js",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/メタフェイズ/HABS-files/htdocs/column/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/news/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/pre_mba/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared.js",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MTテンプレート/一覧表示 bk_20171218.txt",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MT比較用/HABSforWOMEN_1215.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MT比較用/科目詳細_1215.html",
+				"/Users/daia/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/MT?/科目詳細_.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/pre_mba/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/access/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/column/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/instructor/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/women/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/pre_mba/flow.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/pre_mba/tuition.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/about/feature.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/about/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared_mod.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/shared_mod.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/index_mod.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/mod.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/index_bk1212.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared_bk1214.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/shared_bk1214.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/untitled.less",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared_bk1213_demo.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/shared_bk1212.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/seminar/detail/demo.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/sass/bootstrap.scss",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/pre_mba-local-nav.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/inc/column-sub-content.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/pre_mba/list/detail/sample02.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/js/map.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba/assets/css/lib/font-awesome.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/js/shared.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/js/shared_bk1212.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/about/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/shared.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/about/feature.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/pre_mba/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/pre_mba/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/index.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/news/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/js/shared_bk1211.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/women/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/css/column/common.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/js/map.js",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/framework/css/bootstrap.css",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/about/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/women/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/list/detail/sample.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/access/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/inc/footer.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/assets/inc/header.inc",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/list/detail/sample02.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/about/feature/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/tuition/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/flow/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/list/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-mba/pre_mba/list/detail/sample_02.html"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+					"/Users/daia/Vagrant/local-dev/ws/athuman/top,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba",
+					"/Users/daia/Vagrant/local-dev/ws/demo",
+					"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba/mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo,/Users/daia/Vagrant/local-dev/ws/habs-mba/mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo,/Users/daia/Vagrant/local-dev/ws/habs-mba/mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo,/Users/daia/Vagrant/local-dev/ws/habs-mba/mba",
+					"/Users/daia/Vagrant/local-dev/ws/demo/valet_demo",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.inc",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.html",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js,*.css",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba,*.js",
+					"/Users/daia/Vagrant/local-dev/ws/habs-mba"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"vccw",
+					"セミナー / 説明会",
+					"／",
+					"サービスの流れ",
+					"会社概要",
+					"href",
+					"inPageScrolling",
+					"scrl",
+					"human-gotop",
+					"scrollTop",
+					"page-top",
+					"#mba",
+					"href",
+					"inPageScrolling",
+					"sampleScrollSpy",
+					"href^",
+					"inPageScrolling",
+					"human-gotop",
+					"top-arrow",
+					"page-top",
+					"href",
+					"よくあるご質問",
+					"課題詳細",
+					"mba",
+					"h3",
+					"header",
+					"human-logo",
+					".m_column",
+					"#google_map",
+					"google",
+					"#google",
+					"pickup",
+					"figure",
+					"MTAssetThumbnailURL",
+					"figure",
+					"MTk_imageAsset",
+					"item-wrap",
+					"item-inner same-hight",
+					"T_icatch",
+					"おすすめの講座",
+					"#habs-menu-wrap .sf-menu li.menu-search",
+					"menu-search",
+					".sf-menu li",
+					".subject-card .habs-card figure img",
+					".subject-card.card-type-02 .habs-card-image figure img",
+					"habs-card-image",
+					"#habs-footer .foot-wrap .logo",
+					"#habs-footer .foot-bnr-wrap li",
+					".module-box-01.lecture .module-box-01-pict",
+					"lecture-detail",
+					"role",
+					"map",
+					"セミナー・説明会",
+					"media",
+					"css",
+					"UA-110382104-1",
+					"search-box",
+					"isiPhone",
+					"isiPad",
+					"mobileFastClick",
+					"mobileMenu",
+					"isiPhone",
+					"isiPad",
+					"cssminify",
+					"path",
+					"/mba/assets/images/img_rcmm_03.jpg",
+					"data-echo",
+					"\t\t\t\t\t\t\t\t<img src=\"/mba/assets/images/img_thumb_dummy.png\" data-echo=\"/mba/assets/images/img_rcmm_03.jpg\" alt=\"\" class=\"img-responsive\">\n",
+					"data-echo",
+					"data",
+					"owl-carousel",
+					"figure",
+					"ssh",
+					"https://qiita.com/katzueno/items/1b109fc500e5e5ffcbb1",
+					"http://pc-diary.com/blog/2010/11/ssh.html",
+					"scp",
+					"stg",
+					"52.192.227.247",
+					"dev",
+					"stg",
+					"MT",
+					"/mba/assets/images/img_thumb_dummy.png",
+					"figure",
+					"data-echo",
+					"figure",
+					"style",
+					"figure",
+					"data-echo",
+					"style",
+					"google_map",
+					"stg.habs.athuman.com",
+					"dev.",
+					"map",
+					"google_map",
+					"Map",
+					"map",
+					"icon_fb.png",
+					"data-echo",
+					".subject-card.card-type-02 .habs-card-image",
+					"style",
+					"habs-card",
+					"アクセス",
+					"おすすめ講座",
+					"style",
+					"habs-card",
+					"@media screen and (max-width: 320px)",
+					"habs-card",
+					"habs-card-image",
+					"thumb",
+					"dmy",
+					"habs-card",
+					".habs-card",
+					"habs-card",
+					"\n}",
+					".subject-card .habs-card",
+					"sentence",
+					"habs-card-body",
+					"col-sm-6",
+					"same-hight",
+					"mba/assets/images",
+					"セミナー・説明会",
+					".main-content h1:before",
+					"h1",
+					"hq",
+					"government",
+					"(government)\nreload",
+					"text-center",
+					"開催場所・スケジュール"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"site",
+						"top/sitemap/index.html"
+					],
+					[
+						"jquery.adget.js",
+						"top/assets/js/lib/jquery.adget.js"
+					],
+					[
+						"jquery.smoothscroll.js",
+						"top/assets/js/lib/jquery.smoothscroll.js"
+					],
+					[
+						"top/assets/js/shared.js",
+						"top/assets/js/shared.js"
+					],
+					[
+						"top/assets/inc/footer.inc",
+						"top/assets/inc/footer.inc"
+					],
+					[
+						"top/assets/inc/header.inc",
+						"top/assets/inc/header.inc"
+					],
+					[
+						"seminar/deta",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"wome",
+						"habs-mba/mba/women/index.html"
+					],
+					[
+						"index.html",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"women/",
+						"habs-mba/mba/women/index.html"
+					],
+					[
+						"mba/assets/inc/js.inc",
+						"habs-mba/mba/assets/inc/js.inc"
+					],
+					[
+						"mba/assets/inc/css.inc",
+						"habs-mba/mba/assets/inc/css.inc"
+					],
+					[
+						"seminar/de",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"instructor/detail/sample.html",
+						"habs-mba/mba/instructor/detail/sample.html"
+					],
+					[
+						"mba/assets/css/instructor/common.css",
+						"habs-mba/mba/assets/css/instructor/common.css"
+					],
+					[
+						"common.css",
+						"habs-mba/mba/assets/css/instructor/common.css"
+					],
+					[
+						"column",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"instructor",
+						"habs-mba/mba/instructor/index.html"
+					],
+					[
+						"ind",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"mba/instructor/detail",
+						"habs-mba/mba/instructor/detail/sample.html"
+					],
+					[
+						"media",
+						"demo/valet_demo/css/bootstrap/media.css"
+					],
+					[
+						"js.inc",
+						"habs-mba/mba/assets/inc/js.inc"
+					],
+					[
+						"css",
+						"habs-mba/mba/assets/inc/css.inc"
+					],
+					[
+						"shared.js",
+						"habs-mba/mba/assets/js/shared.js"
+					],
+					[
+						"shared.css",
+						"habs-mba/mba/assets/css/shared.css"
+					],
+					[
+						"colu",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"mba/inde",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"mba/pre_mba/list/detail/sample.html",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"mba/pre_mba/list",
+						"habs-mba/mba/pre_mba/list/index.html"
+					],
+					[
+						"/mba/ind",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"pre_mba/list",
+						"habs-mba/mba/pre_mba/list/index.html"
+					],
+					[
+						"mba/column/detail/sample.html",
+						"habs-mba/mba/column/detail/sample.html"
+					],
+					[
+						"mba/seminar/detail/sample.html",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"mba/seminar/",
+						"habs-mba/mba/seminar/index.html"
+					],
+					[
+						"mba/pre_mba/list/",
+						"habs-mba/mba/pre_mba/list/index.html"
+					],
+					[
+						"mba/column/",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"mba/assets/css/seminar/common.css",
+						"habs-mba/mba/assets/css/seminar/common.css"
+					],
+					[
+						"mba/assets/js/map.js",
+						"habs-mba/mba/assets/js/map.js"
+					],
+					[
+						"seminar/detail",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"echo.",
+						"habs-mba/mba/assets/js/lib/echo.min.js"
+					],
+					[
+						"column/sample",
+						"habs-mba/mba/column/detail/sample.html"
+					],
+					[
+						"column/in",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"mba/column/index.html",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"/mba/pre_mba/list/",
+						"habs-mba/mba/pre_mba/list/index.html"
+					],
+					[
+						"mba/column",
+						"habs-mba/mba/column/index.html"
+					],
+					[
+						"/mba/seminar/detail/sample.html",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"inde",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"list/de",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"mba/download/",
+						"habs-mba/mba/download/index.html"
+					],
+					[
+						"js.in",
+						"habs-mba/mba/assets/inc/js.inc"
+					],
+					[
+						"css.inc",
+						"habs-mba/mba/assets/inc/css.inc"
+					],
+					[
+						"hooter",
+						"habs-mba/mba/assets/inc/footer.inc"
+					],
+					[
+						"mba/seminar/detail",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"mba/about/feature/",
+						"habs-mba/mba/about/feature/index.html"
+					],
+					[
+						"mba/in",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"access/inde",
+						"habs-mba/mba/access/index.html"
+					],
+					[
+						"js",
+						"habs-mba/mba/assets/inc/js.inc"
+					],
+					[
+						"css.in",
+						"habs-mba/mba/assets/inc/css.inc"
+					],
+					[
+						"mba/access/",
+						"habs-mba/mba/access/index.html"
+					],
+					[
+						"footer.inc",
+						"habs-mba/mba/assets/inc/footer.inc"
+					],
+					[
+						"",
+						"~/Documents/ws/project/ヒューマンアカデミー/HABSサイトリニューアル/HABS_確認事項.txt"
+					],
+					[
+						"mba/ind",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"heade",
+						"habs-mba/mba/assets/inc/header.inc"
+					],
+					[
+						"sharedjs",
+						"habs-mba/mba/assets/js/shared.js"
+					],
+					[
+						"mba/assets/css/access/index.css",
+						"habs-mba/mba/assets/css/access/index.css"
+					],
+					[
+						"mba/access/index.html",
+						"habs-mba/mba/access/index.html"
+					],
+					[
+						"themify",
+						"demo/valet_demo/css/themify-icons.css"
+					],
+					[
+						"download",
+						"habs-mba/mba/download/index.html"
+					],
+					[
+						"assets/css/shared.css",
+						"habs-mba/mba/assets/css/shared.css"
+					],
+					[
+						"footer",
+						"habs-mba/mba/assets/inc/footer.inc"
+					],
+					[
+						"download/",
+						"habs-mba/mba/assets/css/download/index.css"
+					],
+					[
+						"/down",
+						"habs-mba/mba/download/index.html"
+					],
+					[
+						"mba/assets/css/index.css",
+						"habs-mba/mba/assets/css/index.css"
+					],
+					[
+						"foo",
+						"habs-mba/mba/assets/inc/footer.inc"
+					],
+					[
+						"about/",
+						"habs-mba/mba/about/index.html"
+					],
+					[
+						"mba/news/detail",
+						"habs-mba/mba/news/detail/sample.html"
+					],
+					[
+						"mba/news",
+						"habs-mba/mba/news/index.html"
+					],
+					[
+						"mba/seminar/detail/sa",
+						"habs-mba/mba/seminar/detail/sample.html"
+					],
+					[
+						"mba/seminar/ind",
+						"habs-mba/mba/seminar/index.html"
+					],
+					[
+						"mba/women",
+						"habs-mba/mba/women/index.html"
+					],
+					[
+						"mba/column/detail",
+						"habs-mba/mba/column/detail/sample.html"
+					],
+					[
+						"pre_mba/list/",
+						"habs-mba/mba/pre_mba/list/index.html"
+					],
+					[
+						"pre_mba/list/de",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"mba/instructor/detail/s",
+						"habs-mba/mba/instructor/detail/sample.html"
+					],
+					[
+						"instructor/index.html",
+						"habs-mba/mba/instructor/index.html"
+					],
+					[
+						"mba/about/",
+						"habs-mba/mba/about/index.html"
+					],
+					[
+						"mba/pre_mba/tuition/",
+						"habs-mba/mba/pre_mba/tuition/index.html"
+					],
+					[
+						"mba/pre_mba/flow/",
+						"habs-mba/mba/pre_mba/flow/index.html"
+					],
+					[
+						"mba/pre_mba/in",
+						"habs-mba/mba/pre_mba/index.html"
+					],
+					[
+						"mba/pre_mba/",
+						"habs-mba/mba/pre_mba/flow/index.html"
+					],
+					[
+						"mba/",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"header",
+						"habs-mba/mba/assets/inc/header.inc"
+					],
+					[
+						"mba/assets/css/pre_mba/common.css",
+						"habs-mba/mba/assets/css/pre_mba/common.css"
+					],
+					[
+						"mba/pre_mba/list/detail",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"mba/i",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"news/de",
+						"habs-mba/mba/news/detail/sample.html"
+					],
+					[
+						"mba/assets/css/news/common.css",
+						"habs-mba/mba/assets/css/news/common.css"
+					],
+					[
+						"mba/seminar",
+						"habs-mba/mba/seminar/index.html"
+					],
+					[
+						"women",
+						"habs-mba/mba/women/index.html"
+					],
+					[
+						"mba/pre",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"shared",
+						"habs-mba/mba/assets/css/shared.css"
+					],
+					[
+						"mba/women/",
+						"habs-mba/mba/women/index.html"
+					],
+					[
+						"/mba/pre_mba/flow/",
+						"habs-mba/mba/pre_mba/flow/index.html"
+					],
+					[
+						"mba/assets/css/column/common.css",
+						"habs-mba/mba/assets/css/column/common.css"
+					],
+					[
+						"mba/assets/css/women/common.css",
+						"habs-mba/mba/assets/css/women/common.css"
+					],
+					[
+						"mba/assets/css/pre_mba/tuition.css",
+						"habs-mba/mba/assets/css/pre_mba/tuition.css"
+					],
+					[
+						"mba/assets/css/pre_mba/flow.css",
+						"habs-mba/mba/assets/css/pre_mba/flow.css"
+					],
+					[
+						"mba/assets/css/pre_mba/index.css",
+						"habs-mba/mba/assets/css/pre_mba/index.css"
+					],
+					[
+						"mba/assets/css/about/feature.css",
+						"habs-mba/mba/assets/css/about/feature.css"
+					],
+					[
+						"mba/assets/css/about/index.css",
+						"habs-mba/mba/assets/css/about/index.css"
+					],
+					[
+						"index.css",
+						"habs-mba/mba/assets/css/index.css"
+					],
+					[
+						"mba/index.html",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"mod.",
+						"habs-mba/mba/mod.html"
+					],
+					[
+						"pre_mba/tuition/",
+						"habs-mba/mba/pre_mba/tuition/index.html"
+					],
+					[
+						"mba/pre_mba/flow/index.html",
+						"habs-mba/mba/pre_mba/flow/index.html"
+					],
+					[
+						"/mba/about/",
+						"habs-mba/mba/about/index.html"
+					],
+					[
+						"mba/pre_mba/i",
+						"habs-mba/mba/pre_mba/index.html"
+					],
+					[
+						"index.t",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"shared_",
+						"habs-mba/mba/assets/js/shared_mod.js"
+					],
+					[
+						"index_mod.css",
+						"habs-mba/mba/assets/css/index_mod.css"
+					],
+					[
+						"sha",
+						"habs-mba/mba/assets/css/shared_bk1214.css"
+					],
+					[
+						"/mba/index",
+						"habs-mba/mba/index.html"
+					],
+					[
+						"mba/inst",
+						"habs-mba/mba/instructor/index.html"
+					],
+					[
+						"/mba/seminar",
+						"habs-mba/mba/seminar/detail/demo.html"
+					],
+					[
+						"seminar",
+						"habs-mba/mba/seminar/index.html"
+					],
+					[
+						"list/detail/sample.html",
+						"habs-mba/mba/pre_mba/list/detail/sample.html"
+					],
+					[
+						"he",
+						"habs-mba/mba/assets/inc/header.inc"
+					],
+					[
+						"/mba/assets/inc/pre_mba-local-nav.inc",
+						"habs-mba/mba/assets/inc/pre_mba-local-nav.inc"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 271.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ge",
+						"getElementsByTagName"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/daia/Documents/daiaot/daiaot_info.txt",
+					"settings":
+					{
+						"buffer_size": 1123,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/pw_memo1.txt",
+					"settings":
+					{
+						"buffer_size": 132,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/書籍/書籍リスト.txt",
+					"settings":
+					{
+						"buffer_size": 28507,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/フロントエンジニア資料.txt",
+					"settings":
+					{
+						"buffer_size": 2053,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/frontend_tips.txt",
+					"settings":
+					{
+						"buffer_size": 12214,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/jQuery_memo.txt",
+					"settings":
+					{
+						"buffer_size": 737,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/flexメモ.txt",
+					"settings":
+					{
+						"buffer_size": 1235,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/リセットCSSメモ.txt",
+					"settings":
+					{
+						"buffer_size": 638,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/doc/WEB求人サイト.txt",
+					"settings":
+					{
+						"buffer_size": 1374,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/doc/札幌求人情報.txt",
+					"settings":
+					{
+						"buffer_size": 1773,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/doc/エントリー検討企業.txt",
+					"settings":
+					{
+						"buffer_size": 8465,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Desktop/etc_memo.txt",
+					"settings":
+					{
+						"buffer_size": 1395,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Desktop/account_info.txt",
+					"settings":
+					{
+						"buffer_size": 2609,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Documents/daiaot/memo/js-framework.txt",
+					"settings":
+					{
+						"buffer_size": 1634,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/daia/Desktop/dev/tips.txt",
+					"settings":
+					{
+						"buffer_size": 3674,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 155.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/daia/Documents/daiaot/Vagrant_メモ.txt",
+				"/Users/daia/Documents/ws/memo/Nginx_conf.txt",
+				"/Users/daia/Documents/daiaot/Docker_メモ.txt",
+				"/Users/daia/Documents/daiaot/VCCW_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/svn_備忘録.txt",
+				"/Users/daia/Documents/ws/memo/テストサーバー設定.txt",
+				"/Users/daia/Documents/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/ws/memo/etc_memo.txt",
+				"/Users/daia/Documents/daiaot/dotfiles_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/aotsukad_memo.txt",
+				"/Users/daia/Desktop/aotsuka_bk20180427/text/tips/flexメモ.txt",
+				"/Users/daia/Documents/daiaot/レスポンシブデザイン.txt",
+				"/Users/daia/Documents/daiaot/memo/gulp_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/sass_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/技術tips_etc.txt",
+				"/Users/daia/Documents/daiaot/memo/キャットフード.txt",
+				"/Users/daia/Documents/daiaot/memo/北海道新幹線.txt",
+				"/Users/daia/Documents/daiaot/memo/備忘録.txt",
+				"/Users/daia/Documents/daiaot/memo/狩猟免許メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/home_wifi_memo.txt",
+				"/Users/daia/Documents/daiaot/memo/ディレクターメモ.txt",
+				"/Users/daia/Documents/daiaot/doc/就職活動2018メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_3.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career.txt",
+				"/Users/daia/Vagrant/local-dev/Vagrantfile",
+				"/Users/daia/Documents/daiaot/doc/resume/職業訓練.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_rikunabi.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/職務経歴_編集.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/サービス業/シンデレラグループ/スタイルグループ.txt",
+				"/Users/daia/Desktop/animate.css",
+				"/Users/daia/Documents/daiaot/dev/template/org/template.html",
+				"/Users/daia/Documents/daiaot/doc/resume/マイナビ転職/株式会社ホットファクトリー/株式会社ホットファクトリー.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/クリエイティブセンター広研/クリエイティブセンター広研.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ロゾパンサン/ロゾパンサン.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/ソニックムーブ/株式会社ソニックムーブ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/エレクトロドリーム/株式会社エレクトロドリーム.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/Green/アーバンリサーチ/株式会社アーバンリサーチ.txt",
+				"/Users/daia/Documents/daiaot/doc/収支メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/rikunabi_next/ソルトワークス/株式会社ソルトワークス.txt",
+				"/Users/daia/Documents/daiaot/doc/面談日程.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件_2017.txt",
+				"/Users/daia/Documents/daiaot/doc/リクナビNEXT求人案件.txt",
+				"/Users/daia/Documents/ws/memo/プロジェクト.txt",
+				"/Users/daia/Vagrant/local-dev/ws/habs-education/education/index.html",
+				"/Users/daia/Vagrant/local-dev/ws/habs-government/index.html",
+				"/Users/daia/Documents/daiaot/doc/resume/careerInfo_C&R.txt",
+				"/Users/daia/Documents/daiaot/memo/フリーランス&起業.txt",
+				"/Users/daia/Desktop/appleメモ.txt",
+				"/Users/daia/Documents/daiaot/macbookpro_memo.txt",
+				"/private/etc/hosts",
+				"/Users/daia/Documents/daiaot/memo/frontend_tips.txt",
+				"/Users/daia/Documents/daiaot/メディアクエリ.txt",
+				"/Users/daia/Desktop/career_memo.txt",
+				"/Users/daia/Desktop/面接_株式会社ナディア.txt",
+				"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/conf/apache/httpd.conf",
+				"/Users/daia/Documents/daiaot/dev/framework/bootstrap-3.3.7-dist/index.html",
+				"/Users/daia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/daia/Documents/ws/memo/開発メモ.txt",
+				"/Users/daia/Desktop/web収益モデル.txt",
+				"/Users/daia/Documents/daiaot/te.html",
+				"/Users/daia/Documents/daiaot/専修大学図書館_貸借リスト.txt",
+				"/Users/daia/Documents/daiaot/memo/書籍/書籍-再借.txt",
+				"/Users/daia/Documents/ws/project/日本ガス協会/2017/GAS-214/GAS-214.txt",
+				"/Users/daia/Documents/daiaot/vimrc_memo.txt",
+				"/Users/daia/Documents/daiaot/vim_メモ.txt",
+				"/Users/daia/Documents/daiaot/memo/dj.txt",
+				"/Users/daia/Documents/ws/project/一橋大学/HUB経営分析/HUB経営分析_20171006.txt",
+				"/Users/daia/Documents/ws/memo/Vagrantfile",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant&VirtualBox_dev.txt",
+				"/Users/daia/Documents/daiaot/ws/memo/vagrant_vhosts.conf",
+				"/Users/daia/Documents/daiaot/ws/formac/Vagrantfile",
+				"/Users/daia/Vagrant/local-dev/chikarico/index.html",
+				"/Users/daia/Documents/daiaot/ws/memo/プロジェクト.txt",
+				"/Users/daia/Documents/daiaot/doc/面接メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/バイト.txt",
+				"/Users/daia/Desktop/自己管理メモ.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career_2.txt",
+				"/Users/daia/Documents/daiaot/doc/resume/career._2txt",
+				"/Users/daia/Documents/daiaot/doc/リクルートスタッフィング案件.txt",
+				"/Users/daia/Documents/daiaot/memo/レシピメモ.txt",
+				"/Users/daia/Desktop/account_info.txt",
+				"/Users/daia/Documents/daiaot/doc/個人再生.txt",
+				"/Users/daia/Documents/daiaot/doc/グラヴィー案件_170419.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info.txt",
+				"/Users/daia/Documents/daiaot/memo/server_info02.txt",
+				"/Users/daia/Documents/daiaot/doc/ITプロパートナーズ案件.txt",
+				"/Users/daia/Documents/daiaot/doc/リージョンズ株式会社/リージョンズ案件.txt",
+				"/Users/daia/Documents/daiaot/concent_memo01.txt",
+				"/Users/daia/Desktop/チュードル_memo.txt",
+				"/Users/daia/Documents/daiaot/doc/WEB求人サイト.txt",
+				"/Users/daia/Desktop/daiaot/dev/wp-config.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-settings.php",
+				"/Users/daia/Desktop/daiaot/dev/wp/wp-signup.php",
+				"/Users/daia/Desktop/daiaot/doc/dev/untitled,txt",
+				"/Users/daia/Desktop/android_sample/codezine/MyDBApp.java",
+				"/Users/daia/Desktop/daiaot/doc/dev/android_memo.txt",
+				"/Users/daia/Desktop/daiaot/win_data/aotsuka/職務経歴.txt",
+				"/Users/daia/Desktop/HeatWave/memo_1125.txt",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/AndroidManifest.xml",
+				"/Users/daia/Desktop/HeatWave/SBCreative/YASample/07/Sample8/Sample8.java",
+				"/Users/daia/Desktop/android_sample/codezine/.DS_Store",
+				"/Users/daia/Desktop/daiaot/dl/wordpress/plugins/ac_authenticator/ac_authenticator.php",
+				"/Users/daia/Desktop/index.html",
+				"/Users/daia/Desktop/index.php",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServerThread.java",
+				"/Users/daia/Desktop/HeatWave/13.ソケット通信/CHAT-ANDROID/SocketSrever1/src/com/heat/socket/server/ChatServer.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Background.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MySurfaceView.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/Droid.java",
+				"/Users/daia/Desktop/HeatWave/05.SurfaceView/SurfaceViewSample_10/app/src/main/java/com/example/and0701/surfaceviewsample/MainActivity.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/untitled",
+				"/Users/daia/Desktop/sample.sqlite",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/MainActivity.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/SimpleDatabaseHelper.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/activity_simple_database_helper.xml",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/DatabaseList1/activity_main.xml",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStorageDatabase/DatabaseHelper.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStorageDatabase/ExampleDatabase.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStorageDatabase/Schedule.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStorageDatabase/ScheduleDao.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStorageDatabase/main.xml",
+				"/Users/daia/Desktop/PreferencesFile.xml",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStoragePreferences/AndroidManifest.xml",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/AndroidDB/ExampleStoragePreferences/ExampleStoragePreferences.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/Sample3/Sample3.java",
+				"/Users/daia/Desktop/HeatWave/03.Android基礎/YASample/10/Sample1/Sample1.java",
+				"/Users/daia/Desktop/Sample.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+					"/Users/daia/Documents/daiaot,*.txt"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"シンボリックリンク",
+					"rm",
+					"nginx",
+					"adobe",
+					"現場の",
+					"現場のプロが",
+					"現場",
+					"https://www.iijmio.jp/",
+					"adobe",
+					"OCN",
+					"110368040",
+					"　",
+					"jquery",
+					"angular",
+					"view.js",
+					"framework",
+					"view",
+					"　",
+					"株式会社ソニックムーブ",
+					"2018/03",
+					"2018",
+					"センス・オブ・プレイス",
+					"バイヤーズセレクト",
+					"センス・オブ・プレイス",
+					"オムニチャネル",
+					"オムニチャネルとは",
+					"オムニチャネル",
+					"https://seleck.cc/1081",
+					"販促費を最適化し、購入率の向上も実現。アーバンリサーチのアウトレットEC戦略",
+					"スパイス",
+					"abode",
+					"東京都新宿区愛住町19-13泰美ビル4F",
+					"dist",
+					"jquery",
+					"> ",
+					"&#",
+					"&#12316;",
+					"diff",
+					"〜",
+					"◯",
+					" - ",
+					"〜",
+					"株式会社ディー・エヌ・エー（在籍期間：2014年9月",
+					"長所",
+					"レスポンシブ",
+					"mac",
+					"snv log",
+					"log",
+					"reload",
+					"index.php?$query_string",
+					"gas-kyokai.local",
+					"Nginx",
+					"server",
+					"habs",
+					"habs-mba",
+					"現在のリビジョン",
+					"server {",
+					"habs-mba.local",
+					"habs-mba",
+					"adobe",
+					"min",
+					"reload",
+					"restrat",
+					"nginx",
+					"min",
+					"@media screen and (min-width: 768px)",
+					"高さ",
+					"hight",
+					"min",
+					"beauti",
+					"min",
+					"bootstrap",
+					"クリーク",
+					"backlog",
+					"flex",
+					"boot",
+					"media",
+					"@media only screen and (min-width: 35em) {",
+					"@media only screen and (min-width: 35em) {\n",
+					"http://coliss.com/articles/build-websites/operation/css/about-normalize-css.html",
+					"html",
+					"main",
+					"AddOutputFilter",
+					"include",
+					"dynac",
+					"dynac-shop",
+					"#",
+					"ServerName",
+					"#",
+					"org73",
+					"localhost",
+					"hub",
+					"carousel.css",
+					"data:image",
+					".css",
+					"js/bootstrap.min.js",
+					"ie-emulation-modes-warning.js",
+					"main",
+					"del",
+					"rm",
+					"restart",
+					"nginx",
+					"https://momdo.github.io/html51/Overview.html",
+					"http://www.html5.jp/",
+					"websmile.backlog.jp",
+					"https://websmile.backlog.jp",
+					"hub.hit-u.ac.jp",
+					"～",
+					"10:00～10:30",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが教えるＷｏｒｄＰｒｅｓｓステップアップ・テクニック－",
+					"1127487414",
+					"UNIXという考え方",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが教えるＷｏｒｄＰｒｅｓｓステップアップ・テクニック－",
+					"chikarico",
+					"新しいＬｉｎｕｘの教科書",
+					"配置場所",
+					"１５時間でわかるＳｗｉｆｔ集中講座",
+					"ひとりビジネスの教科書",
+					"[専修大学]：有",
+					"ＷｏｒｄＰｒｅｓｓ　３．ｘデザイン＆カスタマイズスタイルブック－複数ブログ管理からスマートフォンサイトまで、一歩進んだＷｏｒｄＰｒｅｓｓサイト構築術－",
+					"ビジネスサイト制作で学ぶＷｏｒｄＰｒｅｓｓ「テーマカスタマイズ」徹底攻略－プロが",
+					"CODE COMPLETE 第2版 上",
+					"Webデザイン良質見本帳",
+					"Unity5 3D/2Dゲーム開発実践入門",
+					"ＷｏｒｄＰｒｅｓｓ　３．ｘデザイン＆カスタマイズスタイルブック",
+					"多摩図書館",
+					"Webデザイン良質見本帳"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/daia/Documents/daiaot/daiaot_info.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/daia/Documents/daiaot/memo/pw_memo1.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 132,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/daia/Documents/daiaot/memo/書籍/書籍リスト.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1496,
+										1496
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1042.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/daia/Documents/daiaot/フロントエンジニア資料.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2053,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1303,
+										1303
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 488.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/daia/Documents/daiaot/memo/frontend_tips.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12214,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										972,
+										972
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/daia/Documents/daiaot/memo/jQuery_memo.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 737,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										91,
+										91
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/daia/Documents/daiaot/flexメモ.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1235,
+										1235
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 426.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/daia/Documents/daiaot/memo/リセットCSSメモ.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 638,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/daia/Documents/daiaot/doc/WEB求人サイト.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										258,
+										258
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/daia/Documents/daiaot/doc/札幌求人情報.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1773,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/daia/Documents/daiaot/doc/エントリー検討企業.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/Users/daia/Desktop/etc_memo.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1395,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58,
+										58
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/Users/daia/Desktop/account_info.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2609,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										97,
+										97
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/Users/daia/Documents/daiaot/memo/js-framework.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1634,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										162,
+										162
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/Users/daia/Desktop/dev/tips.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3674,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 20 45 1598 976 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gu",
+						"~/Documents/daiaot/memo/gulp_memo.txt"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

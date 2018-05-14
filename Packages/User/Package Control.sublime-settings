@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"Compass",
+		"ConvertToUTF8",
+		"HTML-CSS-JS Prettify",
+		"Japanize",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SCSS Snippets",
+		"Sublimerge Pro",
+		"Theme - Monokai",
+		"TrailingSpaces",
+		"YUI Compressor"
+	]
+}
